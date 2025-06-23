@@ -1,0 +1,4 @@
+Adafruit_DHT
+smbus
+requests
+RPi.GPIO
